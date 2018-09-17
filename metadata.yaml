@@ -1,11 +1,14 @@
 _repo: Varia-ja-viivoja-Werner-von-Heidenstamin-Oscar-Levertinin-ym-novelleja_52536
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Sirola, Yrjö
     alias: Sirola, Yrjo
     gutenberg_agent_id: '46914'
     url: http://www.gutenberg.org/2009/agents/46914
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Molin, Pelle
@@ -37,7 +40,7 @@ creator:
     - Pedersen, Knut
     - Hamsund, Knut Pedersen
     - Thode, Knut
-    birthdate: &id001 1859
+    birthdate: 1859
     deathdate: 1952
     gutenberg_agent_id: '2376'
     url: http://www.gutenberg.org/2009/agents/2376
@@ -54,13 +57,13 @@ creator:
     aliases:
     - Heidenstam, Karl Gustaf Verner von
     - Von Heidenstam, Verner
-    birthdate: *id001
+    birthdate: 1859
     deathdate: 1940
     gutenberg_agent_id: '5027'
     url: http://www.gutenberg.org/2009/agents/5027
     wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
   - agent_name: Berger, Henning
-    birthdate: &id002 1872
+    birthdate: 1872
     deathdate: 1924
     gutenberg_agent_id: '48386'
     url: http://www.gutenberg.org/2009/agents/48386
@@ -70,13 +73,13 @@ creator:
     - Hjalmar Söderberg
     - Söderberg, Hjalmar Emil Fredrik
     birthdate: 1869
-    deathdate: &id003 1941
+    deathdate: 1941
     gutenberg_agent_id: '24935'
     url: http://www.gutenberg.org/2009/agents/24935
   - agent_name: Forsslund, Karl-Erik
     alias: Forsslund, Karl Erik
-    birthdate: *id002
-    deathdate: *id003
+    birthdate: 1872
+    deathdate: 1941
     gutenberg_agent_id: '46830'
     url: http://www.gutenberg.org/2009/agents/46830
   - agent_name: Strindberg, August
@@ -87,6 +90,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52536#Varia-ja-viivoja-Werner-von-Heidenstamin-Oscar-Levertinin-ym-novelleja
 gutenberg_issued: '2016-07-09'
 gutenberg_type: Text
 identifiers:
