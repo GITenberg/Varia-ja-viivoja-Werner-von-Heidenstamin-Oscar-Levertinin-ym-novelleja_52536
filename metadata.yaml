@@ -1,0 +1,111 @@
+_repo: Varia-ja-viivoja-Werner-von-Heidenstamin-Oscar-Levertinin-ym-novelleja_52536
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sirola, Yrjö
+    alias: Sirola, Yrjo
+    gutenberg_agent_id: '46914'
+    url: http://www.gutenberg.org/2009/agents/46914
+creator:
+  authors:
+  - agent_name: Molin, Pelle
+    birthdate: 1864
+    deathdate: 1896
+    gutenberg_agent_id: '47370'
+    url: http://www.gutenberg.org/2009/agents/47370
+  - agent_name: Blanche, August
+    alias: Blanche, August Teodor
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '31667'
+    url: http://www.gutenberg.org/2009/agents/31667
+    wikipedia: http://en.wikipedia.org/wiki/August_Blanche
+  - agent_name: Benedictsson, Victoria
+    aliases:
+    - Ahlgren, Ernst
+    - Benedictsson, Victoria Maria Bruzelius
+    birthdate: 1850
+    deathdate: 1888
+    gutenberg_agent_id: '6211'
+    url: http://www.gutenberg.org/2009/agents/6211
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Victoria_Benedictsson
+    - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
+  - agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Pedersen, Knut
+    - Hamsund, Knut Pedersen
+    - Thode, Knut
+    birthdate: &id001 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+  - agent_name: Levertin, Oscar
+    aliases:
+    - Levertin, Oskar
+    - Levertin, Oscar Ivar
+    birthdate: 1862
+    deathdate: 1906
+    gutenberg_agent_id: '46687'
+    url: http://www.gutenberg.org/2009/agents/46687
+  - agent_name: Heidenstam, Verner von
+    aliases:
+    - Heidenstam, Karl Gustaf Verner von
+    - Von Heidenstam, Verner
+    birthdate: *id001
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
+  - agent_name: Berger, Henning
+    birthdate: &id002 1872
+    deathdate: 1924
+    gutenberg_agent_id: '48386'
+    url: http://www.gutenberg.org/2009/agents/48386
+  - agent_name: Söderberg, Hjalmar
+    aliases:
+    - Soderberg, Hjalmar
+    - Hjalmar Söderberg
+    - Söderberg, Hjalmar Emil Fredrik
+    birthdate: 1869
+    deathdate: &id003 1941
+    gutenberg_agent_id: '24935'
+    url: http://www.gutenberg.org/2009/agents/24935
+  - agent_name: Forsslund, Karl-Erik
+    alias: Forsslund, Karl Erik
+    birthdate: *id002
+    deathdate: *id003
+    gutenberg_agent_id: '46830'
+    url: http://www.gutenberg.org/2009/agents/46830
+  - agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2016-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52536'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: 'Werner von Heidenstam: Katarina Jagellottaren kuolema. Vaihtelevainen.
+  Herraseni luotan ritarillisuuteenne -- Oskar Levertin: Kunnian miehiä -- Hjalmar
+  Söderberg: Tappaminen. Huolia -- Karl Erik Forslund: Jouluyö. Teeriemo. Palkintokilpailu
+  -- Victoria Benedictsson: Tutkimusmatkalla. Joulu. Kansanystävä -- Henning Berger:
+  Katu -- Knut Hamsun: Blåmansö -- Pelle Molin: Äiti varustaa kalamiehiä Lofotin matkalle
+  -- August Blanche: Kotiopettajatar. Kaksi sulhasta ja yksi morsian -- August Strindberg:
+  Vuoren kultakypärät.'
+title: 'Väriä ja viivoja: Werner von Heidenstamin, Oscar Levertinin y.m. novelleja'
+url: http://www.gutenberg.org/ebooks/52536
